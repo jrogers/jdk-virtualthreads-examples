@@ -1,4 +1,4 @@
-package dev.jrogers.loom;
+package dev.jrogers.virtualthreads;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

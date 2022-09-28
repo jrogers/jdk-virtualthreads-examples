@@ -1,5 +1,16 @@
-# JDK Project Loom Examples
+# JDK Virtual Threads Examples
 
-## Setup
+Demonstrates JDK virtual thread usage
 
-Currently requires installing a Project Loom EA JDK 19 build - https://jdk.java.net/loom/
+## Building
+
+The project currently uses Maven.
+```bash
+mvn package
+```
+
+## Running
+
+```bash
+java --enable-preview -cp target/jdk-virtual-threads-examples-1.0.0-SNAPSHOT.jar dev.jrogers.virtualthreads.ManyVirtualThreads
+```

@@ -4,9 +4,9 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>dev.jrogers</groupId>
-    <artifactId>jdk-project-loom-examples</artifactId>
+    <artifactId>jdk-virtual-threads-examples</artifactId>
     <packaging>jar</packaging>
-    <name>JDK Project Loom Examples</name>
+    <name>JDK Virtual Threads Examples</name>
     <version>1.0.0-SNAPSHOT</version>
 
     <build>
