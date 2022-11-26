@@ -4,6 +4,8 @@ Demonstrates JDK virtual thread usage
 
 ## Building
 
+Requires JDK version 19 or later.
+
 The project currently uses Maven.
 ```bash
 mvn package
